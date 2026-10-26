@@ -10,9 +10,9 @@ function Profile({ }) {
         <thead>
           <tr>
             <th colSpan="2" scope="colgroup">
-              <strong>Alex Johnson</strong>
+              <strong>Laiden</strong>
               <br />
-              Frontend Developer
+              Web Developer
             </th>
           </tr>
         </thead>
@@ -20,18 +20,18 @@ function Profile({ }) {
           <tr>
             <th scope="row">Email</th>
             <td>
-              <a href="mailto:alex.johnson@example.com">
-                alex.johnson@example.com
+              <a href="mailto:yourname@example.com">
+                Laiden@gmail.com
               </a>
             </td>
           </tr>
           <tr>
             <th scope="row">Location</th>
-            <td>San Francisco, CA</td>
+            <td>Kuala Lumpur, Malaysia</td>
           </tr>
           <tr>
             <th scope="row">Skills</th>
-            <td>JavaScript, React, HTML</td>
+            <td>React, JavaScript, CSS, Vite</td>
           </tr>
         </tbody>
       </table>
